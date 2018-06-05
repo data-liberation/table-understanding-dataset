@@ -11,6 +11,6 @@ The problem of table understanding has attracted much interest in previous years
 
 * table interpretation: rediscovering the meaning of the tabular structure. This includes:         
 
-(a) functional analysis: determining the function of cells and their abstract logical relationships;       
+  (a) functional analysis: determining the function of cells and their abstract logical relationships;       
 
-(b) semantic interpretation: understanding the semantics of the table in terms of the entities represented in the table, their attributes, and the mutual relationships between such entities.       
+  (b) semantic interpretation: understanding the semantics of the table in terms of the entities represented in the table, their attributes, and the mutual relationships between such entities.       
