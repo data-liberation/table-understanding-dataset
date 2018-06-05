@@ -29,4 +29,4 @@ The problem of table understanding has attracted much interest in previous years
 
 * PDF-TREX system:[it contains mostly Italian financial tables and does not include ground-truth information]()    
 
-*  Ground-truthed datasets of PDF tables:[ ICDAR 2013 Table Competition ](http://www.tamirhassan.com/dataset.html)
+*  ICDAR 2013 Table Competition :[Ground-truthed datasets of PDF tables contains 59 excerpts as individual PDF les, with a total of 117 tables](http://www.tamirhassan.com/dataset.html)
