@@ -30,3 +30,6 @@ The problem of table understanding has attracted much interest in previous years
 * PDF-TREX system:[it contains mostly Italian financial tables and does not include ground-truth information]()    
 
 *  ICDAR 2013 Table Competition :[Ground-truthed datasets of PDF tables contains 59 excerpts as individual PDF les, with a total of 117 tables](http://www.tamirhassan.com/dataset.html)
+
+* Data to evaluate our extractor was gathered from a variety of computer science conferences and then hand annotated. In total 150 papers were annotated, resulting in 458 figures and 190 tables. Bounding regions for figures, tables, and captions were identified using LabelMe and post processed to get cropped bounding squares.:[DATASET](https://www.dropbox.com/s/ydr3asu406hl4ho/dataset.tar.gz?dl=0)
+[Visualization of Ground Truth Annotations ](https://www.dropbox.com/sh/hfqa6mn6pznczex/AAA_MuCm3XBPs5AOLTXFLqY_a?dl=0)
