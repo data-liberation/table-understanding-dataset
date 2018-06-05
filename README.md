@@ -33,3 +33,5 @@ The problem of table understanding has attracted much interest in previous years
 
 * Data to evaluate our extractor was gathered from a variety of computer science conferences and then hand annotated. In total 150 papers were annotated, resulting in 458 figures and 190 tables. Bounding regions for figures, tables, and captions were identified using LabelMe and post processed to get cropped bounding squares.:[DATASET](https://www.dropbox.com/s/ydr3asu406hl4ho/dataset.tar.gz?dl=0)
 [Visualization of Ground Truth Annotations ](https://www.dropbox.com/sh/hfqa6mn6pznczex/AAA_MuCm3XBPs5AOLTXFLqY_a?dl=0)
+
+* [Page Object Detection(POD) is to detect the specific page objects(e.g. tables, formulas, figures(including charts)) in document images. The dataset contains more than 2000 images with various kinds of page objects. Participants are required to detect these page objects in the provided dataset. ](http://www.icst.pku.edu.cn/cpdp/ICDAR2017_PODCompetition/results.html)
