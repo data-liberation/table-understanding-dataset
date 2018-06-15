@@ -30,6 +30,10 @@ The problem of table understanding has attracted much interest in previous years
 * PDF-TREX system:[it contains mostly Italian financial tables and does not include ground-truth information]()    
 
 *  ICDAR 2013 Table Competition :[Ground-truthed datasets of PDF tables contains 59 excerpts as individual PDF les, with a total of 117 tables](http://www.tamirhassan.com/dataset.html)
+>EU-data set and the US-data set. The EU-data set currently consists of 34 public domain documents, gathered from various European
+Union government websites. The US-data set consists of 25 public domain United States government website PDF documents. Both data sets contain an eclectic set of tables, that for the most part surpass the typical scientific publication table complexities by a large margin (see Chapter 3.2). The test data ground truth table areas exclude both the table title and legend. The table detection algorithm had to be modified to accommodate these changes for the testing phase.
+The two used data sets (EU and US) sets are a part of an International Conference on Document Analysis and Recognition (ICDAR) 2013 table competition* and they are freely available on the Internet [13]. The data sets are likely to be expanded in the future,while the authors of Göbel et al. [14] are working towards a more unified toolkit for standardized testing methods for table detection and structure recognition. The ground truths for the data sets are provided by Göbel et al. [14]. 
+
 
 * Data to evaluate our extractor was gathered from a variety of computer science conferences and then hand annotated. In total 150 papers were annotated, resulting in 458 figures and 190 tables. Bounding regions for figures, tables, and captions were identified using LabelMe and post processed to get cropped bounding squares.:[DATASET](https://www.dropbox.com/s/ydr3asu406hl4ho/dataset.tar.gz?dl=0)
 [Visualization of Ground Truth Annotations ](https://www.dropbox.com/sh/hfqa6mn6pznczex/AAA_MuCm3XBPs5AOLTXFLqY_a?dl=0)
